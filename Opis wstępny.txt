@@ -1,10 +1,19 @@
-Gra platformowa z przeszkodami online.
+POMYS£: "Gra platformowa z przeszkodami dla wielu graczy." (lokalna lub online, zobaczymy)
 
-Wzorowane na grze ze Steam :
+---------------------------------------------------------------------------------------------------
 
+Wzorowane na grze ze Steam : http://store.steampowered.com/app/257750/Bloody_Trapland/
+
+---------------------------------------------------------------------------------------------------
 
 Bart³omiej Borkowicz robi:
--
+- postacie i ich zachowanie
+- obs³uga wielu graczy
+
+---------------------------------------------------------------------------------------------------
 
 Tomasz Graf robi:
--
+- menu z opcjami
+- poziomy i interakcje œrodowiska
+
+---------------------------------------------------------------------------------------------------
