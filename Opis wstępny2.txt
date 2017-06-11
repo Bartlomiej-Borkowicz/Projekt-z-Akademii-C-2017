@@ -1,0 +1,29 @@
+POMYS£: "Gra platformowa z przeszkodami dla wielu graczy." (lokalna lub online, zobaczymy)
+
+Gra bêdzie wykonana w Unity.
+
+---------------------------------------------------------------------------------------------------
+
+Wzorowane na grze ze Steam : http://store.steampowered.com/app/257750/Bloody_Trapland/
+
+---------------------------------------------------------------------------------------------------
+
+Bart³omiej Borkowicz robi:
+- postacie, ich sterowanie i interakcje z otoczeniem
+- interaktywne obiekty (drabiny, dŸwignie, przyciski, zapadnie, œmiertelne pu³apki, przedmioty do zbierania za punkty) <---- tym na pewno siê podzielimy
+- pauzowanie gry
+- czat gry
+- obs³uga wielu graczy
+
+---------------------------------------------------------------------------------------------------
+
+Tomasz Graf robi:
+- menu z opcjami (mo¿liwoœæ zmiany sterowania postaciami, statystyki ka¿dego poziomu i najlepsze wyniki)
+- konstrukcja poszczególnych poziomów i interakcje œrodowiska
+- interaktywne obiekty (drabiny, dŸwignie, przyciski, zapadnie, œmiertelne pu³apki, przedmioty do zbierania za punkty) <---- tym na pewno siê podzielimy
+
+Opcjonalnie:
+- edytor map
+- statystyki i ustawienia w chmurze
+
+---------------------------------------------------------------------------------------------------
